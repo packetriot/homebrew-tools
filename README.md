@@ -1,8 +1,8 @@
-# Packetriot client
+# Client
 
-We are currently using this project to help support macOS installations using brew.
+We are using this project to help support macOS installations via brew.
 
 ```
-brew install packetriot/pktriot
+brew install packetriot/homebrew-tools/pktriot
 ```
 
