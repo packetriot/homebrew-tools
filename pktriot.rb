@@ -1,4 +1,4 @@
-class pktriot < Formula
+class Packetriot < Formula
   desc "Packetriot.com client supports tunneling Internet request to local or private servers."
   homepage "https://packetriot.com"
   url "https://pktriot-dl-bucket.sfo2.digitaloceanspaces.com/releases/macos/pktriot-0.9.16.macos.tar.gz"
