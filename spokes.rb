@@ -3,7 +3,7 @@ class Spokes < Formula
   homepage "https://packetriot.com/enterprise"
 
   url "https://download.packetriot.com/macos/brew/spokes-1.1.1.tar.gz"
-  sha256 "80f5a1804c40ffdaaf7f2345bc4e5f9c591998309188413006a44b6488e83bdb"
+  sha256 "f5e1de1bfd2c822fd940da5722d665368abf93310dbb69e0e69571eb7312ba09"
 
   bottle :unneeded
 
