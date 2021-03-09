@@ -11,7 +11,7 @@ class Spokes < Formula
     # ENV.deparallelize  # if your formula fails when building in parallel
     # Remove unrecognized options if warned by configure
     bin.install "usr/bin/spokes"
-    opt_prefix.install Dir["usr/share/spokes/*"]
+    prefix.install Dir["usr/share/spokes/*"]
 
     system "zsh", "--exec", "install.sh"
   end
