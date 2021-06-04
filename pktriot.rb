@@ -2,8 +2,8 @@ class Pktriot < Formula
   desc "Packetriot.com client supports tunneling Internet requests to local or private servers."
   homepage "https://packetriot.com"
 
-  url "https://download.packetriot.com/macos/brew/pktriot-0.10.8.tar.gz"
-  sha256 "6e500d97d75b2ad3350655fb44d8e10c0c3ae2602fd1513be94e319f7e4c25a3"
+  url "https://download.packetriot.com/macos/brew/pktriot-0.10.9.tar.gz"
+  sha256 "9d083272e14b905cf0417d08ec0e406224c3329f9652ed6b952fa2f4a2d27ab9"
 
   bottle :unneeded
 
