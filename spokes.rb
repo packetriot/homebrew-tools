@@ -2,8 +2,8 @@ class Spokes < Formula
   desc "Spokes is an HTTP and TCP tunneling server."
   homepage "https://packetriot.com/enterprise"
 
-  url "https://download.packetriot.com/macos/brew/spokes-1.2.3.tar.gz"
-  sha256 "0325889ea15b3391d954e783c3df2860ae66be2e6c3afdf2342448bb1d7c2f9a"
+  url "https://download.packetriot.com/macos/brew/spokes-1.2.4.tar.gz"
+  sha256 "ad26fc9ffd8bbfc7a3384a0474ce25972c9b24b3c1e8e6c53dba0bcb0968f2f0"
 
   bottle :unneeded
 
