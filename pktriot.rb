@@ -3,7 +3,7 @@ class Pktriot < Formula
   homepage "https://packetriot.com"
 
   url "https://download.packetriot.com/macos/brew/pktriot-0.11.0.tar.gz"
-  sha256 "888ac156b757a9a6a3be8215becc7b6ac683a4125d868cf204636efb5812eee2"
+  sha256 "fa1a97f692132a3023f998aaa2d97606582f1c830ccf5a66c882b5c8fe974bf3"
 
   bottle :unneeded
 
